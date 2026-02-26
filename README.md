@@ -40,11 +40,10 @@ Strategic Simplicity: Experience true "set it and forget it" operational ease. T
 # 🚀How to Install/Test It
 
 The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Server</b> is a full dockerized app:
-* Download <a href="https://github.com/laurfb/LPRS/blob/main/docker-compose.yml">docker-compose.yml</a>.
-* Copy docker-compose.yml in any folder you want.
+* Download the <a href="https://github.com/laurfb/LPRS/blob/main/docker-compose.yml">docker-compose.yml</a>
+* Copy docker-compose.yml in any folder you want
 * Run in that folder (asuming you already have docker engine instaled): <b>docker compose up -d</b>
-
-* Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP.
+* Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP
 
 
 # ✨Project based and inspired by:
