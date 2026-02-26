@@ -1,4 +1,4 @@
-# LPRS
+# 🔆LPRS
 🔆<b>LPRS™ Live Proxy Relay Server</b>
 
 The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a powerful, low-latency media gateway and proxy server engineered to meet the rigorous demands of professional television and broadcast operations, utilizing cutting-edge transport protocols.
