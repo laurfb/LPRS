@@ -31,15 +31,20 @@ Strategic Simplicity: Experience true "set it and forget it" operational ease. T
 
 <img width="1467" height="826" alt="LPRS™ Do The MagiX" src="https://github.com/user-attachments/assets/12cdf631-f39a-4193-b889-af3ad9c2c40b" />
 
+✅ All major protocol/codecs used in broadcast and media native support, Ultra Low latency, NO Quality Loss!, Real-Time Monitoring, Low-footprint CPU and Memory usage, Lightweight Ultra-responsive Runtimes, Advanced Users Management, Extended logging capabilities.
+
+<img width="1456" height="818" alt="2026-01-19 - 21_31_36 - LPRS™ Live+ Stream Player" src="https://github.com/user-attachments/assets/93dbc520-6577-4f14-bf6f-1168120483ce" />
+
+
 
 # 🚀How to Install/Test It
 
 The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Server</b> is a full dockerized app:
-1.	Download docker-compose.yml.
-2.	Copy docker-compose.yml in any folder you want.
-3.	Run in that folder (asuming you already have docker engine instaled):
-    <b>docker compose up -d</b>
-Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP.
+* Download <a href="https://github.com/laurfb/LPRS/blob/main/docker-compose.yml">docker-compose.yml</a>.
+* Copy docker-compose.yml in any folder you want.
+* Run in that folder (asuming you already have docker engine instaled): <b>docker compose up -d</b>
+
+* Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP.
 
 
 # ✨Project based and inspired by:
