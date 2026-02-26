@@ -41,3 +41,30 @@ The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Serve
     <b>docker compose up -d</b>
 Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP.
 
+
+# ✨Project based and inspired by:
+•	libSRT: https://github.com/Haivision/srt
+
+•	libRIST: https://code.videolan.org/rist/librist 
+
+•	Enhanced rtmp: https://github.com/veovera/enhanced-rtmp
+
+•	Node.js: https://github.com/nodejs 
+
+•	Edward Wu's SRT Live Server: https://github.com/Edward-Wu/srt-live-server
+
+•	NGINX server: https://nginx.org/
+
+•	OSSRS/SRS (Simple Realtime Server): https://github.com/ossrs/srs
+
+•	Arut nginx rtmp module: https://github.com/arut/nginx-rtmp-module
+
+•	Ravenium docker file: https://github.com/ravenium/srt-live-server
+
+•	BtbN ffmpeg LGPL builds: https://github.com/BtbN/FFmpeg-Builds
+
+•	Build on Ubuntu 25.x : https://ubuntu.com/ 
+
+All credits goes to the original authors!
+
+
