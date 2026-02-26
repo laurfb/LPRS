@@ -14,7 +14,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a po
 
 ✅ <b>Operational Control & Security</b>: Advanced Stream Management: Provides granular control and monitoring over all received streams and connected users. Broadcast-Grade Security: Ensures content protection during transport via robust AES Encryption.
 
-<img width="1920" height="1079" alt="lprs 5media player dashboard" src="https://github.com/user-attachments/assets/724bf695-bcd7-44b1-8d32-a44dc4eacf50" />
+<img width="1920" height="1079" alt="lprs 5media player dashboards" src="https://github.com/user-attachments/assets/e33caa10-865f-4800-a55f-9374e5d3598f" />
 
 ✅ <b>Production Workflow Enhancement</b>: Generalized Acquisition & Exchange: Significantly expands production possibilities by standardizing the reliable acquisition and exchange of live TV productions using ubiquitous SRT/RIST/RTMP/RTMPS/RTSP streams over public internet. Proven Reliability & Value: Application fully tested and validated in demanding broadcast environments, offering powerful capabilities at an UNBEATABLE cost profile.
 
