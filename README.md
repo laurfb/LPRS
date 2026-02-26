@@ -29,7 +29,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a po
 ✅ <b>Unrivaled Performance & Resilience</b>: Maximize your operational capacity with a system architected for absolute stability, high availability, and the latest technology standards.
 Strategic Simplicity: Experience true "set it and forget it" operational ease. The platform is pre-tuned, fully optimized, and ready for immediate deployment, minimizing maintenance overhead and freeing up key engineering resources.
 
-<img width="1471" height="830" alt="lprs on the fly" src="https://github.com/user-attachments/assets/2c3fae93-2f12-4f89-94b2-40a1328c37a1" />
+<img width="1467" height="826" alt="LPRS™ Do The MagiX" src="https://github.com/user-attachments/assets/12cdf631-f39a-4193-b889-af3ad9c2c40b" />
 
 
 # 🚀How to Install/Test It
