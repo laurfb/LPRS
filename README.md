@@ -39,5 +39,5 @@ The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Serve
 2.	Copy docker-compose.yml in any folder you want.
 3.	Run in that folder (asuming you already have docker engine instaled):
     <b>docker compose up -d</b>
-Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with http://localhost:9998 address from local or use http://server_address:9998 if you acces the server from other IP.
+Then, access the 🔆<b>LPRS™</b> web interface in any browser you want with <a href="http://localhost:9998">http://localhost:9998</a> address from local or use <a href="http://server_address:9998">http://server_address:9998</a> if you acces the server from other IP.
 
