@@ -6,15 +6,19 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a po
 
 ✅ <b>Protocol Agnostic Native Support</b>: Natively supports all essential modern protocols: <b>SRT</b> / <b>RIST</b> / <b>RTMP</b> / <b>RTMPS</b> / <b>HLS</b> / <b>WebRTC</b> / <b>RTSP</b>. Functions as a true agnostic, real-time, multi-format, multi-standard media relay server, supporting any audio/video/data format WITHOUT requiring proprietary hardware or software modifications to your existing infrastructure.
 
+<img width="3000" height="2000" alt="lprs new generation media distribution" src="https://github.com/user-attachments/assets/6c47347b-f147-438f-97d4-0f9c413ac7c2" />
+
 ✅ <b>Scalable & High-Quality Distribution</b>: Simultaneous Multi-Stream Transport: Capable of transporting multiple independent audio-video streams concurrently. One-to-Many HD/UHD/4K: Efficiently distributes a single HD, UHD, or 4K source stream to 'N' simultaneous receivers. Zero-Loss Quality Assurance (NO Transcoding): Achieves transparent multiplication and distribution of the signal to 'N' users at the highest available source quality, entirely eliminating quality degradation associated with transcoding.
 
-<img width="3000" height="2000" alt="lprs new generation media distribution" src="https://github.com/user-attachments/assets/6c47347b-f147-438f-97d4-0f9c413ac7c2" />
+<img width="1665" height="937" alt="lprs monitor page" src="https://github.com/user-attachments/assets/7f4ca1a8-bf5c-4ee4-b9de-5ba3c068c01e" />
 
 ✅ <b>Operational Control & Security</b>: Advanced Stream Management: Provides granular control and monitoring over all received streams and connected users. Broadcast-Grade Security: Ensures content protection during transport via robust AES Encryption.
 
+<img width="1920" height="1079" alt="lprs 5media player dashboard" src="https://github.com/user-attachments/assets/724bf695-bcd7-44b1-8d32-a44dc4eacf50" />
+
 ✅ <b>Production Workflow Enhancement</b>: Generalized Acquisition & Exchange: Significantly expands production possibilities by standardizing the reliable acquisition and exchange of live TV productions using ubiquitous SRT/RIST/RTMP/RTMPS/RTSP streams over public internet. Proven Reliability & Value: Application fully tested and validated in demanding broadcast environments, offering powerful capabilities at an UNBEATABLE cost profile.
 
-<img width="1471" height="830" alt="lprs main page" src="https://github.com/user-attachments/assets/6cc4e971-8ae6-4634-8599-521b58d9caaf" />
+<img width="1430" height="811" alt="lprs 4channel monitor" src="https://github.com/user-attachments/assets/96689f2c-1bb7-4717-8450-6621fccce1b6" />
 
 ✅ <b>Perfect for hybrid satellite workflow</b> - a content distribution strategy that combines the reliability and wide reach of traditional satellite technology with the flexibility, scalability, and interactivity of modern IP-based (Internet and cloud) networks. This approach allows broadcasters to leverage the strengths of both systems to optimize delivery, reduce costs, and meet changing viewer demands.
 
