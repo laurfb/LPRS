@@ -6,7 +6,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a po
 
 ✅ <b>Protocol Agnostic Native Support</b>: Natively supports all essential modern protocols: <b>SRT</b> / <b>RIST</b> / <b>RTMP</b> / <b>RTMPS</b> / <b>HLS</b> / <b>WebRTC</b> / <b>RTSP</b>. Functions as a true agnostic, real-time, multi-format, multi-standard media relay server, supporting any audio/video/data format WITHOUT requiring proprietary hardware or software modifications to your existing infrastructure.
 
-<img width="3000" height="2000" alt="lprs new generation media distribution" src="https://github.com/user-attachments/assets/6c47347b-f147-438f-97d4-0f9c413ac7c2" />
+<img width="1430" height="811" alt="lprs 4channel monitor" src="https://github.com/user-attachments/assets/dc65c981-15b3-4a83-8a95-da4eb2bf1d5b" />
 
 ✅ <b>Scalable & High-Quality Distribution</b>: Simultaneous Multi-Stream Transport: Capable of transporting multiple independent audio-video streams concurrently. One-to-Many HD/UHD/4K: Efficiently distributes a single HD, UHD, or 4K source stream to 'N' simultaneous receivers. Zero-Loss Quality Assurance (NO Transcoding): Achieves transparent multiplication and distribution of the signal to 'N' users at the highest available source quality, entirely eliminating quality degradation associated with transcoding.
 
@@ -32,9 +32,9 @@ Strategic Simplicity: Experience true "set it and forget it" operational ease. T
 <img width="1471" height="830" alt="lprs on the fly" src="https://github.com/user-attachments/assets/2c3fae93-2f12-4f89-94b2-40a1328c37a1" />
 
 
-# 🚀How to Install
+# 🚀How to Install/Test It
 
-The install is as simple as possible since 🔆LPRS™ Live Proxy Relay Server is a full containerized docker app:
+The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Server</b> is a full dockerized app:
 1.	Download docker-compose.yml.
 2.	Copy docker-compose.yml in any folder you want.
 3.	Run in that folder (asuming you already have docker engine instaled):
