@@ -6,7 +6,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> (Live Proxy Relay Server) is a po
 
 ✅ <b>Protocol Agnostic Native Support</b>: Natively supports all essential modern protocols: <b>SRT</b> / <b>RIST</b> / <b>RTMP</b> / <b>RTMPS</b> / <b>HLS</b> / <b>WebRTC</b> / <b>RTSP</b>. Functions as a true agnostic, real-time, multi-format, multi-standard media relay server, supporting any audio/video/data format WITHOUT requiring proprietary hardware or software modifications to your existing infrastructure.
 
-<img width="1430" height="811" alt="lprs 4channel monitor" src="https://github.com/user-attachments/assets/dc65c981-15b3-4a83-8a95-da4eb2bf1d5b" />
+<img width="3000" height="1760" alt="lprs new generation media distribution" src="https://github.com/user-attachments/assets/fa1e7915-2743-4a91-892b-2927eeef901f" />
 
 ✅ <b>Scalable & High-Quality Distribution</b>: Simultaneous Multi-Stream Transport: Capable of transporting multiple independent audio-video streams concurrently. One-to-Many HD/UHD/4K: Efficiently distributes a single HD, UHD, or 4K source stream to 'N' simultaneous receivers. Zero-Loss Quality Assurance (NO Transcoding): Achieves transparent multiplication and distribution of the signal to 'N' users at the highest available source quality, entirely eliminating quality degradation associated with transcoding.
 
