@@ -38,7 +38,9 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media 
 
 <img width="1467" height="826" alt="LPRS™ Do The MagiX" src="https://github.com/user-attachments/assets/12cdf631-f39a-4193-b889-af3ad9c2c40b" />
 
-✅ Native support for all major/used protocols (SRT/RIST/MPEGTS/RTMP/RTMPS/RTSP/RTP/UDP) and codecs (H264/AVC, H265/HEVC, AV1, VVC etc.) in broadcast and media industry, Ultra Low latency limited only by the characteristics of your equipment and your infrastructure, NO Quality Loss, Advanced Real-Time Monitoring, Easiest Remote Management model, Low-footprint CPU and Memory usage, Lightweight & Ultra-responsive Runtimes, On-Premise or On-Cloud distribution, Lowest Costs, Advanced Users Management, Extended logging capabilities. In One place!
+✅ Native support for all major/used protocols (SRT/RIST/MPEGTS/RTMP/RTMPS/RTSP/RTP/UDP) and codecs (H264/AVC, H265/HEVC, AV1, VVC etc.) in broadcast and media industry, Ultra Low latency limited only by the characteristics of your equipment and your infrastructure.
+
+✅ NO Quality Loss, Advanced Real-Time Monitoring, Easiest Remote Management model, Low-footprint CPU and Memory usage, Lightweight & Ultra-responsive Runtimes, On-Premise or On-Cloud distribution, Lowest Costs, Advanced Users Management, Extended logging capabilities. In One place!
 
 <img width="1456" height="818" alt="2026-01-19 - 21_31_36 - LPRS™ Live+ Stream Player" src="https://github.com/user-attachments/assets/93dbc520-6577-4f14-bf6f-1168120483ce" />
 
