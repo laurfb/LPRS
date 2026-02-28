@@ -6,7 +6,7 @@ services:
       - "1935:1935"
       - "1936:1936"
       - "1985:1985"
-      - "6228:6228/udp"
+      - "6828:6828/udp"
       - "8223:8223"
       - "8228:8228/udp"
       - "9303:9303"
@@ -16,4 +16,5 @@ services:
       DEMO_MODE: "production_ready"
       LOG_LEVEL: "info"
       API_KEY: "YiR5XwMsLPheegFqRSyBSChXU"
+
 
