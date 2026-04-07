@@ -12,7 +12,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media 
 
 ✅ <b>Zero-Loss Quality Assurance (NO Transcoding)</b>: Achieves transparent multiplication and distribution of the signal to 'N' users at the highest available source quality, entirely eliminating quality degradation associated with transcoding.
 
-<img width="1665" height="937" alt="lprs monitor page" src="https://github.com/user-attachments/assets/7f4ca1a8-bf5c-4ee4-b9de-5ba3c068c01e" />
+<img width="1490" height="839" alt="Monitor   Statistics v1" src="https://github.com/user-attachments/assets/bfa6377f-20cf-4e94-80e7-337e184692e5" />
 
 ✅ <b>Operational Control & Security</b> & <b>Advanced Stream Management</b>: Provides granular control and monitoring over all received streams and connected users.<br>
 
@@ -42,7 +42,10 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media 
 
 ✅ <b>NO Quality Loss</b>, Advanced Real-Time Monitoring, Easiest Remote Management model, Low-footprint CPU and Memory usage, Lightweight & Ultra-responsive Runtimes, On-Premise or On-Cloud distribution, Lowest Costs, Advanced Users Management, Extended logging capabilities. In One place!
 
-<img width="1456" height="818" alt="2026-01-19 - 21_31_36 - LPRS™ Live+ Stream Player" src="https://github.com/user-attachments/assets/93dbc520-6577-4f14-bf6f-1168120483ce" />
+<img width="1486" height="835" alt="Screenshot 2026-04-04 at 18-07-39 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/a4a82709-6f3c-43b7-8b64-95e548deebc4" />
+
+<img width="1471" height="826" alt="Screenshot 2026-03-07 at 21-26-46 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/0ca15c40-527c-40d7-aab5-bd441cd36f62" />
+
 
 
 # 🚀How to Install/Test It
