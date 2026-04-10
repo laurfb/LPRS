@@ -12,7 +12,10 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media 
 
 ✅ <b>Zero-Loss Quality Assurance (NO Transcoding)</b>: Achieves transparent multiplication and distribution of the signal to 'N' users at the highest available source quality, entirely eliminating quality degradation associated with transcoding.
 
-<img width="1490" height="839" alt="Monitor   Statistics v1" src="https://github.com/user-attachments/assets/bfa6377f-20cf-4e94-80e7-337e184692e5" />
+🔎Complex Real-Time <b>Accurate & Detailed Health Metrics and Statistics</b> for every streams passed!
+The live stream health stats gives a greater insight into the performance of the active live streams on server.
+
+<img width="1486" height="835" alt="LPRS metrics" src="https://github.com/user-attachments/assets/b0ab0cb3-e9db-4e73-85a0-5295d4ee09c5" />
 
 ✅ <b>Operational Control & Security</b> & <b>Advanced Stream Management</b>: Provides granular control and monitoring over all received streams and connected users.<br>
 
