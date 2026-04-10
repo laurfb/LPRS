@@ -1,4 +1,3 @@
-<img width="1486" height="835" alt="Screenshot 2026-04-09 at 19-37-26 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/1f2ad4db-7624-4ff7-ad3e-7abe7d2aee6f" />
 # 🔆LPRS™ Live Proxy Relay Server
 
 The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media gateway and proxy server engineered to meet the rigorous demands of professional television and broadcast operations, utilizing cutting-edge transport protocols.
