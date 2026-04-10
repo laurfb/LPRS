@@ -29,7 +29,7 @@ The live stream health stats gives a greater insight into the performance of the
 
 <img width="1430" height="811" alt="lprs 4channel monitor" src="https://github.com/user-attachments/assets/96689f2c-1bb7-4717-8450-6621fccce1b6" />
 
-✅ <b>Perfect for hybrid satellite workflow</b>: A content distribution strategy that combines the reliability and wide reach of traditional satellite technology with the flexibility, scalability, and interactivity of modern IP-based (Internet and cloud) networks. This approach allows broadcasters to leverage the strengths of both systems to optimize delivery, reduce costs, and meet changing viewer demands.
+✅ <b>Perfect for Hybrid Satellite-IP workflow</b>: A content distribution strategy that combines the reliability and wide reach of traditional satellite technology with the flexibility, scalability, and interactivity of modern IP-based (Internet and cloud) networks. This approach allows broadcasters to leverage the strengths of both systems to optimize delivery, reduce costs, and meet changing viewer demands.
 
 <img width="1920" height="1080" alt="lprs stability and reliability" src="https://github.com/user-attachments/assets/7a817fa2-439d-417e-9be4-9e5272592a42" />
 
