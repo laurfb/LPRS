@@ -39,7 +39,7 @@ The live stream health stats gives a greater insight into the performance of the
 
 ✅ <b>Strategic Simplicity</b>: Experience true "<b>Set It and Forget It!</b>" operational ease. The platform is pre-tuned, fully optimized, and ready for immediate deployment, minimizing maintenance overhead and freeing up key engineering resources.
 
-<img width="1467" height="826" alt="LPRS™ Do The MagiX" src="https://github.com/user-attachments/assets/12cdf631-f39a-4193-b889-af3ad9c2c40b" />
+<img width="1467" height="826" alt="LPRS™ Do The MagiX Zoom" src="https://github.com/user-attachments/assets/3326527c-79df-4ee6-9f0d-eefd2f5faaff" />
 
 ✅ <b>Native support</b> for all major/used protocols (SRT/RIST/MPEGTS/RTMP/RTMPS/RTSP/RTP/UDP) and codecs (H264/AVC, H265/HEVC, AV1, VVC etc.) in broadcast and media industry, Ultra Low latency limited only by the characteristics of your equipment and your infrastructure.
 
