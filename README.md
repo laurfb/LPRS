@@ -21,7 +21,7 @@ The live stream health stats gives a greater insight into the performance of the
 
 ✅ <b>Broadcast-Grade Security</b>: Ensures content protection during transport via robust AES Encryption.
 
-<img width="1920" height="1079" alt="lprs 5media player dashboards Zoom" src="https://github.com/user-attachments/assets/134942b5-b0b1-440c-b999-245e5a89ebdc" />
+<img width="1920" height="1079" alt="LPRS Dashboards Zoom Details" src="https://github.com/user-attachments/assets/ee8f118e-1359-427d-ba6b-8f850367bb86" />
 
 ✅ <b>Production Workflow Enhancement</b>: Generalized Acquisition & Exchange: Significantly expands production possibilities by standardizing the reliable acquisition and exchange of live TV productions using ubiquitous SRT/RIST/RTMP/RTMPS/RTSP streams over public internet.<br>
 
