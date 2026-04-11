@@ -76,6 +76,6 @@ The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Serve
 * BtbN ffmpeg LGPL builds: https://github.com/BtbN/FFmpeg-Builds
 * Build on Ubuntu 25.x : https://ubuntu.com/ 
 
-🫡All credits goes to the original authors!
+🫡 All credits goes to the original authors!
 
 
