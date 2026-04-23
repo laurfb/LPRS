@@ -42,7 +42,7 @@ The live stream health stats gives a greater insight into the performance of the
 
 ✅ <b>Native support</b> for all major/used protocols (SRT/RIST/MPEGTS/RTMP/RTMPS/RTSP/RTP/UDP) and codecs (H264/AVC, H265/HEVC, AV1, VVC etc.) in broadcast and media industry, Ultra Low latency limited only by the characteristics of your equipment and your infrastructure.
 
-✅ <b>NO Quality Loss</b>, Advanced Real-Time Monitoring, Easiest Remote Management model, Low-footprint CPU and Memory usage, Lightweight & Ultra-responsive Runtimes, On-Premise or On-Cloud distribution, Lowest Costs, Advanced Users Management, Extended logging capabilities. In One place!
+✅ <b>NO Quality Loss</b>, Easiest Remote Management model, <b>Advanced Real-Time Monitoring</b>, Low-footprint CPU and Memory usage, Lightweight & Ultra-responsive Runtimes, On-Premise or On-Cloud distribution, Lowest Costs, Advanced Users Management, Extended logging capabilities. All this in one,single place!
 
 <img width="1486" height="835" alt="Screenshot 2026-04-04 at 18-07-39 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/a4a82709-6f3c-43b7-8b64-95e548deebc4" />
 
@@ -52,6 +52,7 @@ The live stream health stats gives a greater insight into the performance of the
 
 <img width="1486" height="835" alt="Screenshot 2026-04-09 at 19-37-26 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/05e5dca7-bbc4-4ed0-a703-728d57a27b81" />
 
+<img width="1512" height="849" alt="Screenshot 2026-04-23 at 16-24-43 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/9ddbf896-2306-46a0-b0e4-5c61a8c97654" />
 
 # 🚀How to Install/Test It
 
