@@ -14,8 +14,7 @@ The 🔆<b>LPRS™ Live Proxy Relay Server</b> is a powerful, low-latency media 
 
 🔎Complex Real-Time <b>Accurate & Detailed Health Metrics and Statistics</b> for every streams passed!
 The live stream health stats gives a greater insight into the performance of the active live streams on server.
-
-<img width="1486" height="835" alt="LPRS metrics" src="https://github.com/user-attachments/assets/b0ab0cb3-e9db-4e73-85a0-5295d4ee09c5" />
+<img width="1516" height="849" alt="LPRS Aniversary 4th May 2026, v2a" src="https://github.com/user-attachments/assets/e6d62d7e-a91b-4e51-90b1-875d23ff8557" />
 
 ✅ <b>Operational Control & Security</b> & <b>Advanced Stream Management</b>: Provides granular control and monitoring over all received streams and connected users.<br>
 
