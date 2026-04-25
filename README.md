@@ -54,6 +54,8 @@ The live stream health stats gives a greater insight into the performance of the
 
 <img width="1512" height="849" alt="Screenshot 2026-04-23 at 16-24-43 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/9ddbf896-2306-46a0-b0e4-5c61a8c97654" />
 
+<img width="1562" height="875" alt="MultiView 3x3 MultiPlayer" src="https://github.com/user-attachments/assets/9e0b1ba7-fa8b-45aa-bc6b-9a04cdf977ef" />
+
 # 🚀How to Install/Test It
 
 The install is as simple as possible since 🔆<b>LPRS™ Live Proxy Relay Server</b> is a fully dockerized app:
