@@ -52,6 +52,8 @@ The live stream health stats gives a greater insight into the performance of the
 
 <img width="1486" height="835" alt="Screenshot 2026-04-09 at 19-37-26 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/05e5dca7-bbc4-4ed0-a703-728d57a27b81" />
 
+<img width="1438" height="804" alt="Screenshot 2026-04-27 at 18-01-59 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/749f3ba6-c76a-45e6-b23a-8cea2602dc8d" />
+
 <img width="1512" height="849" alt="Screenshot 2026-04-23 at 16-24-43 LPRS™ Live Stream Player" src="https://github.com/user-attachments/assets/9ddbf896-2306-46a0-b0e4-5c61a8c97654" />
 
 <img width="1562" height="875" alt="MultiView 3x3 MultiPlayer" src="https://github.com/user-attachments/assets/9e0b1ba7-fa8b-45aa-bc6b-9a04cdf977ef" />
