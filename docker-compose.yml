@@ -15,6 +15,7 @@ services:
     environment:
       DEMO_MODE: "production_ready"
       LOG_LEVEL: "info"
+      TZ: "Europe/Bucharest"
       API_KEY: "YiR5XwMsLPheegFqRSyBSChXU"
 
 
